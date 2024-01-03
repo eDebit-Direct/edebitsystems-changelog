@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [1.17.4] - 2024-01-03
+
+### 🔥 HOT FIXES
+- Login - user can't log in as refresh token keeps using an expired token
+
+### 🐞 BUG FIXES
+- PR/Invoice authorization - Yodlee window does not load if consumer goes back
+- Nav bar - sub menu items displayed when the cursor is not hovering over
+- Commissions - modal text contains undefined instead of month
+- Commissions - Unable to load PDF file
+
+### 🔧 SYSTEM IMPROVEMENTS
+- Transactions - cancel Payment Plan/Subscription modal improvement
+- Timestamps - add timezone
+
 # [1.17.3] - 2023-12-27
 ### 🐞 BUG FIXES
 - Fix shopify bug order status bug
