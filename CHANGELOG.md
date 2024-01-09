@@ -4,6 +4,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [1.17.6] - 2024-01-09
+
+## 🔥 HOT FIXES
+- Login - user can't log in as refresh token keeps using an expired token
+
+## 🐞 BUG FIXES
+- Login - OTP preference does not allow user login
+- Users - address set to null after PR/Invoice is edited
+- Users - shopify consumer being created with invalid zipcode
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Training videos - Adjustments
+- Training Videos - display videos according to user role
+
 # [1.17.5] - 2024-01-05
 
 ### 🔥 HOT FIXES
