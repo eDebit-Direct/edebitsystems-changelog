@@ -4,6 +4,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+# [1.17.7] - 2024-01-10
+
+# Changes
+
+## 🔥 HOT FIXES
+
+- Payment Requests - unable to edit non-authorized PR
+- Payment Reqs/Invoices - blank Routing and Account Number when editing a PR/Invoice that has not had bank details saved
+
 # [1.17.6] - 2024-01-09
 
 ## 🔥 HOT FIXES
