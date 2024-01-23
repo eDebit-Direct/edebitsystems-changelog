@@ -4,6 +4,46 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+<!-- HOOK:APPEND_TO_CHANGELOG -->
+
+# [1.17.9] - 2024-01-23
+
+
+## 🔥 HOT FIXES
+- Consumers - status set to Disabled after a week
+
+
+
+
+## 🐞 BUG FIXES
+- Payment Requests/Invoices - Processed transactions not displayed correctly in Payment Schedule/Plan History after edit
+- Nav bar - sub menu items display stuck open
+
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- SalesRep Users - merchant details page
+- Sales Rep Users - page navigation
+- Sales Rep Users - Admin
+- Sales Rep Users - Monthly Statements
+
+
+
+
+# [1.17.8] - 2024-01-16
+
+## 🚀 NEW FEATURES
+- Integrate OpenTimestamps into the backend
+- Create Draft PDF with e-signature
+- Verify Draft PDF with e-signature using OpenTimestamps
+## 🐞 BUG FIXES
+- System Users - unable to use filters
+- Master Merchants - unable to use sort or select all
+## 🔧 SYSTEM IMPROVEMENTS
+- Training videos - remove option to download the videos
+- Reports - select New transactions based on created_at date
+
 # [1.17.7] - 2024-01-10
 
 # Changes
