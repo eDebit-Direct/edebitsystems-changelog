@@ -6,6 +6,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.10] - 2024-01-30
+
+
+
+
+## 🐞 BUG FIXES
+- Transactions Report - results grouped incorrectly if more than a year of data requested
+- Transactions Reports - Sunday transactions not included in weekly Period
+
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Shopify - front end changes
+- Shopify - check plugin validation services
+- Shopify - Yodlee error message when using invalid zipcode
+- Shopify - improved flow for Chase Bank
+
+
+
+
+## 🏗️ REFACTOR / CLEANUP
+- User Mailer - update text for failed validation email
+
+
 # [1.17.9] - 2024-01-23
 
 
