@@ -6,6 +6,32 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.11] - 2024-02-06
+
+
+
+
+## 🐞 BUG FIXES
+- Sales Reps - unable to access Monthly Statements from mobile view
+- Monthly Statements - table not formatted correctly in mobile view
+- Payment Requests - Edit causes validation service to be stored as 'Datax'
+- Transactions - unable to cancel from mobile view
+- Merchants - Add button is visible to users in mobile view
+- Transactions - cancel payment plan modal does not display in mobile view
+- Commissions Report - Returns or transactions processed on last day of the month not selected for commissions
+- Monthly Statements - transactions processed on last day of the month not selected
+
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Commissions Report - table not well formatted in mobile view
+- Transactions - add a column for validation service
+- Transactions - add validation service to the filter
+
+
+
+
 # [1.17.10] - 2024-01-30
 
 
