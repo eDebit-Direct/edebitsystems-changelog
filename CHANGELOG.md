@@ -6,6 +6,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.12] - 2024-02-13
+
+
+
+
+## 🐞 BUG FIXES
+- Transactions - due_date affected by time on users local machine
+
+
+
+
+## 🏗️ REFACTOR / CLEANUP
+- Seed File updated with right email ids
+
 # [1.17.11] - 2024-02-06
 
 
