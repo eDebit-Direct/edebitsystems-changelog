@@ -6,6 +6,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.13] - 2024-02-20
+
+## 🔥 HOT FIXES
+
+Below changes done in this release which were not specific to the code but those were requested from the backend admin team - 
+
+- DB Data Update - Mark Harris Customer is not charged for recurring monthly PR on 16th Feb for merchant PageHub.
+
+
+
+## 🐞 BUG FIXES
+- Commission report - not calculating ACH transaction correctly for Commissions Reports
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Merchant - Wordpress logo plugin validation services.
+
+
+
+## 🧱 DATABASE UPDATE
+
+- logo_on_plugin - new column added to the table merchant_accounts
+
+
 # [1.17.12] - 2024-02-13
 
 
