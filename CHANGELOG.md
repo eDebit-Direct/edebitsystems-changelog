@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.14] - 2024-03-05
+
+
+## 🐞 BUG FIXES
+- Commission report - not calculating ACH transaction correctly for Commissions Reports
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- 
+- 
+- 
+
+
+
+
+
+## 🧱 DATABASE UPDATE
+
+- No updates in Database
+
+
 # [1.17.13] - 2024-02-20
 
 ## 🔥 HOT FIXES
