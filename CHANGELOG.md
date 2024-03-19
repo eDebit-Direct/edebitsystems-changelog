@@ -6,6 +6,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.15] - 2024-03-19
+## 🚀 NEW FEATURES
+- ACH - TEL Implementation
+- Under the Merchants/General/Limit and Restrictions -> Bank should load only those sec codes which are associated with them
+
+## 🐞 BUG FIXES
+- Auto populating the information after entering the email id loading the wrong account/routing number.
+- Wordpress - woo plugin does not show the payment method for https://goldenrulebotanicals.com/.
+- Transaction Due date issue.
+- Nacha File - Nacha file changes for TEL sec code
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Remove the "Remove or call and number" from the email template.
+- Shopify api version change.
+
+
+
+## 🧱 DATABASE UPDATE
+
+- processing_institution_not_supported_sec_codes - new table added
+- is_tel_enabled - new column added to the table payment_methods
+
+
 # [1.17.14] - 2024-03-05
 
 
