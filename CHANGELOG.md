@@ -6,6 +6,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.16] - 2024-04-03
+
+
+
+## 🐞 BUG FIXES
+- Pagination page number search fix.
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Sender Email updated.
+
+
+
+## 🧱 DATABASE UPDATE (The previous migration which we added are not required for now)
+
+- No updates in Database
+
 # [1.17.15] - 2024-03-21
 
 
