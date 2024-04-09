@@ -6,6 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.17] - 2024-04-09
+
+
+
+## 🐞 BUG FIXES
+- Commission reports - unable to fetch flagged merchant accounts report.
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Transaction Due date issue which was showing the transaction for PR and Invoices to be in Upcoming for One Time type of a payment.
+- Monthly report - to show one extra column of monthly fee in fees assessed dropdown list
+
+
+
+## 🧱 DATABASE UPDATE
+
+- No updates in Database
+
 # [1.17.16] - 2024-04-03
 
 
