@@ -6,6 +6,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.18] - 2024-05-02
+
+
+
+## 🐞 BUG FIXES
+- Amount humanize issue amount showing wrong in text.
+
+
+
+
+## 🧱 DATABASE UPDATE
+
+- No updates in Database
+
 # [1.17.17] - 2024-04-09
 
 
