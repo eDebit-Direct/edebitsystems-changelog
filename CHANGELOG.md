@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.19] - 2024-05-03
+## :rocket: NEW FEATURES
+- Merchant - Restrict Consumer
+## :bricks: DATABASE UPDATE
+- restricted_reasons - new table added
+- restricted_reason_id - added new column to the table restricted_consumers
+
 # [1.17.18] - 2024-05-02
 
 
