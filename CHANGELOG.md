@@ -6,26 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
-# [1.17.19] - 2024-05-03
+# [1.17.20] - 2024-05-14
 ## :rocket: NEW FEATURES
-- Merchant - Restrict Consumer
+- Introduce new status Temporary hold
 ## :bricks: DATABASE UPDATE
-- restricted_reasons - new table added
-- restricted_reason_id - added new column to the table restricted_consumers
-
-# [1.17.18] - 2024-05-02
-
-
-
-## 🐞 BUG FIXES
-- Amount humanize issue amount showing wrong in text.
-
-
-
-
-## 🧱 DATABASE UPDATE
-
-- No updates in Database
+- delayed_hold_expiry - added new column to the table transactions
+- is_delayed_hold - added new column to the table transactions
 
 # [1.17.17] - 2024-04-09
 
