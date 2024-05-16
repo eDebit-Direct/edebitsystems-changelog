@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.21] - 2024-05-16
+
+## 🔥 HOT FIXES
+
+
+- Fix - Subscription cancelation popup fix on transaction.
+
+
+
+## 🐞 BUG FIXES
+
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.17.20] - 2024-05-14
 ## :rocket: NEW FEATURES
 - Introduce new status Temporary hold
