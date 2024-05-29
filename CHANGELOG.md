@@ -18,6 +18,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - restricted_reasons - new table added
 - restricted_reason_id - added new column to the table restricted_consumers
 
+# [1.17.22] - 2024-05-29
+## 🚀 NEW FEATURES
+- Trigger the refund emails.
+- Restricted consumer feature.
+## 🐞 BUG FIXES
+- Fix - Commission report fix.
+- Temporary hold text and color change from payment schedule and payment history.
+## 🧱 DATABASE UPDATE
+
+- restricted_reasons - new table added
+- restricted_reason_id - added new column to the table restricted_consumers
+
 # [1.17.21] - 2024-05-16
 
 ## 🔥 HOT FIXES
