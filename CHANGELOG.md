@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.24] - 2024-06-05
+
+## 🔥 HOT FIXES
+- Fix - System is allowing for Received Transactions to be Cancelled when a merchant cancels a Payment Request or Invoices.
+
+## 🐞 BUG FIXES
+- Fix - Transactions on Page number 2 and onward in data table are not able to create a credit due to the pagination issue.
+- Fix - When we export the transactions, for eDebitDirect LLC transactions are coming as Bank of America but not eDebitDirect LLC.
+
 # [1.17.23] - 2024-05-30
 ## 🐞 BUG FIXES
 - Fix - Autofill changes.
