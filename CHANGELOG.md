@@ -6,6 +6,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.26] - 2024-06-11
+## 🐞 BUG FIXES
+- Fix - There is a production issue where one of the transaction did show the validation BAV codes but it has shown the validation type as None . I know it's not reproducible but do check logically when this can happen.
+## 🔧 SYSTEM IMPROVEMENTS
+- Password expiry time update and change of checking only last password while resetting.
+## 🧱 DATABASE UPDATE
+- Update users-table-passowrd_created-column - By update query - UPDATE users SET password_created = CURRENT_DATE  where password_created IS NOT NULL 
+
 # [1.17.25] - 2024-06-07
 
 ## 🔥 HOT FIXES
