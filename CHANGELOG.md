@@ -6,6 +6,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+
+# [1.17.27] - 2024-06-21
+
+## 🐞 BUG FIXES
+- Fix - Report commission - supplementary section showing deactivated records of deactivated merchants.
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Test case failing so version updated from 3.3.0-dev to 3.3.0 from tool-versions file.
+
+
+
 # [1.17.26] - 2024-06-11
 ## 🐞 BUG FIXES
 - Fix - There is a production issue where one of the transaction did show the validation BAV codes but it has shown the validation type as None . I know it's not reproducible but do check logically when this can happen.
