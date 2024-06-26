@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.28] - 2024-06-26
+## :fire: HOT FIXES
+- Fix - Lawlesslabsusa - Shopify order not updating it as Paid or Cancelled.
+## :bricks: DATABASE UPDATE
+- Update merchant_accounts-table-created-column - shopify_store_url 
+
 
 # [1.17.27] - 2024-06-21
 
