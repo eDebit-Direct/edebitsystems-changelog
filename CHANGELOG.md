@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.19.0] - 2024-07-16
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+- ACH - TEL Implementation.
+
+## 🐞 BUG FIXES
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+- add_column :merchant_accounts, :is_tel_enabled, :boolean
+- add_column :payment_methods, :is_tel_enabled, :boolean
+- remove_column :merchant_accounts, :is_tel_enabled, :boolean
+- create_table :processing_institution_sec_codes
+- rename_table :processing_institution_sec_codes, :processing_institution_not_supported_sec_codes
+
 # [1.18.0] - 2024-07-16
 
 
