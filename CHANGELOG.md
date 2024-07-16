@@ -6,6 +6,32 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.18.0] - 2024-07-16
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+- Nacha file - Same Day vs Next Day ACH.
+
+## 🐞 BUG FIXES
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+- add_column :merchant_accounts, :same_day_processing, :boolean, default: false
+- remove_column :merchant_accounts, :same_day_processing, :boolean, default: false
+- add_column :transactions, :is_same_day_transaction, :boolean, default: false
+- add_column :limit_payment_types, :same_day_processing, :boolean, default: false
+- UPDATE limit_payment_types
+          SET same_day_processing = true
+          WHERE financial_processing_institution_id = 3
+
 # [1.17.30] - 2024-07-16
 
 
