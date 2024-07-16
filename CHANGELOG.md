@@ -6,6 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.17.30] - 2024-07-16
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+- When a New or Received Transaction is placed On Hold, the system should place the associated Validation fee & Processing Fee on hold. Once the Hold has been removed the fees should go to Ready to Bill status. When a Merchant places a new Transaction On Temporary Hold, the system should only place the Processing fee On Hold. Once the Temp Hold has been removed the fees should go to Ready to Bill status.
+
+## 🐞 BUG FIXES
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Rename SalesReps and Sales Rep to Resellers and Reseller.
+
+
+
+
 
 # [1.17.29] - 2024-07-03
 
