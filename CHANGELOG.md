@@ -6,6 +6,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.19.1] - 2024-07-17
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+
+## 🐞 BUG FIXES
+- Transactions which are created through billed fee giving the issue while creating the ACH.
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
 # [1.19.0] - 2024-07-16
 
 
