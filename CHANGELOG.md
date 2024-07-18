@@ -6,6 +6,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.19.2] - 2024-07-18
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+
+## 🐞 BUG FIXES
+- Shopify issue fix for lawless and freedom merchants.
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
 # [1.19.1] - 2024-07-17
 
 
