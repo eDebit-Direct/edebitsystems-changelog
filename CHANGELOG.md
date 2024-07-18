@@ -6,6 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.19.3] - 2024-07-18
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+
+## 🐞 BUG FIXES
+- FILTER fixes - Same day and Next day fixes.
+- CCD Transaction same vs next day fixes.
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
 # [1.19.2] - 2024-07-18
 
 
