@@ -6,6 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.19.4] - 2024-07-23
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+
+## 🐞 BUG FIXES
+- Fix - Same transaction on main page is showing 4.33 AM and on details page showing 4.30 PM. Created date never changes, so it should not have changed anything there.
+- Fix - Merchant is only able to see the transactions till jul 15 2024 pm pst but all the above transactions are not seen when master / merchant admin from Blue.
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
 # [1.19.3] - 2024-07-18
 
 
