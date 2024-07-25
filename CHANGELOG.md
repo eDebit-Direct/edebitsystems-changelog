@@ -6,6 +6,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.20.0] - 2024-07-25
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+- Microbilt Feature
+
+
+## 🐞 BUG FIXES
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+- create_table :microbilt_validation_codes
+- create_table :service_validations
+- add_column :microbilt_validation_codes, :property_message, :string
+- Microbilt validation codes bav codes entry
+
 # [1.19.4] - 2024-07-23
 
 
