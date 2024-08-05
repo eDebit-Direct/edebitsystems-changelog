@@ -6,6 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.20.1] - 2024-08-05
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+
+## 🐞 BUG FIXES
+- Fix - Inside the system users tab disabled users are not displaying.
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.20.0] - 2024-07-25
 
 
