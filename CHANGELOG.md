@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.20.3] - 2024-08-15
+
+
+## 🔥 HOT FIXES
+
+
+## 🚀 NEW FEATURES
+
+
+## 🐞 BUG FIXES
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Shopify zip code allow only first 5 characters.
+- While restricting a consumer, there should be a first option as All on top of the dropdown to restrict all consumers instead of selecting those one by one.
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.20.2] - 2024-08-13
 
 
