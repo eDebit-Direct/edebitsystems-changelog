@@ -6,6 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.20.4] - 2024-08-21
+
+
+## 🔥 HOT FIXES
+
+
+## 🚀 NEW FEATURES
+
+
+## 🐞 BUG FIXES
+- Same day upcoming fix.
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.20.3] - 2024-08-15
 
 
