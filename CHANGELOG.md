@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.20.5] - 2024-08-23
+
+
+## 🔥 HOT FIXES
+
+
+## 🚀 NEW FEATURES
+
+
+## 🐞 BUG FIXES
+- When we are creating a PR or invoices and if the validation fails, all the upcoming transactions associated with that PR/Invoice should be created but in cancelled status. Currently when validation fails, it's creating the transactions in Upcoming next occurrences.
+- If validation fails after creating invoice / PR, it should show the validation failed message instead of success message.
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.20.4] - 2024-08-21
 
 
