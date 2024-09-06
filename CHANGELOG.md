@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.20.6] - 2024-09-06
+
+
+## 🔥 HOT FIXES
+
+
+## 🚀 NEW FEATURES
+
+
+## 🐞 BUG FIXES
+- Fix to check the insufficient funds against available_balance instead of current_balance from the data returned by yodlee.
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.20.5] - 2024-08-23
 
 
