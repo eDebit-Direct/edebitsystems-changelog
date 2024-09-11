@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.20.8] - 2024-09-11
+
+
+## 🔥 HOT FIXES
+
+
+## 🚀 NEW FEATURES
+
+
+## 🐞 BUG FIXES
+- Pick the merchant name from merchant object on api side.
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.20.7] - 2024-09-09
 
 
