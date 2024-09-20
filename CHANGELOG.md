@@ -6,6 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.21.0] - 2024-09-20
+## 🔧 SYSTEM IMPROVEMENTS
+- Magento Plugin to mark the transaction as Processed/Paid when action Processed clicked and Cancelled when transaction is marked as Cancelled.
+## 🧱 DATABASE UPDATE
+- Update merchant_accounts-table-_created-column - magento_username 
+- Update merchant_accounts-table-_created-column - magento_password 
+- Update merchant_accounts-table-_created-column - magento_store_url 
+- Added new table  - magento_order 
+
 # [1.20.9] - 2024-09-18
 
 
