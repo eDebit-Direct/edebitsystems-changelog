@@ -6,6 +6,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.22.0] - 2024-10-01
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+- WooCommerce Plugin to mark the transaction as Processed/Paid when action Processed clicked and Cancelled when transaction is marked as Cancelled.
+
+
+## 🐞 BUG FIXES
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+- create_table :woocommerce_orders
+- add_column :merchant_accounts, :woocommerce_store_url, :string
+- add_column :merchant_accounts, :woocommerce_username, :string
+- add_column :merchant_accounts, :woocommerce_password, :string
+
+
 # [1.21.2] - 2024-10-01
 
 
