@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.21.2] - 2024-10-01
+
+
+## 🔥 HOT FIXES
+
+
+## 🚀 NEW FEATURES
+- When we go to create transaction or Pr or Invoice page, first selection is merchant, then 2nd should be Individual/business as a dropdown to select between either of those. If merchant is selected, it should show the current form as it is however when Individual is selected, then it should show first name and last both as mandatory fields.
+
+## 🐞 BUG FIXES
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+- add_column :transactions, :is_consumer, :boolean
+- add_column :payment_requests, :is_consumer, :boolean
+- add_column :invoices, :is_consumer, :boolean
+
 # [1.21.1] - 2024-09-20
 
 
