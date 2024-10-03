@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.22.1] - 2024-10-03
+
+
+## 🔥 HOT FIXES
+
+
+## 🚀 NEW FEATURES
+
+
+## 🐞 BUG FIXES
+- Woocommerce required fields check removed.
+- Magento required fields check removed.
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.22.0] - 2024-10-01
 
 
