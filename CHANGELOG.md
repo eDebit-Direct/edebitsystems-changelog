@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.22.4] - 2024-10-03
+
+## 🐞 BUG FIXES
+- ACH - TEL Implementation
+
+
+
 # [1.22.3] - 2024-10-03
 
 
