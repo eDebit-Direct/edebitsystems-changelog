@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.22.7] - 2024-10-15
+
+## 🔥 HOT FIXES
+- If the BAV code is not selected, transactions should show the Failed Validation - P1
+- BAV codes are not showing for merchant accounts
+
 # [1.22.6] - 2024-10-11
 ## :fire: HOT FIXES
 - Edit the upcoming transactions, it should populate the data in the form and spinner should not continue to spin
