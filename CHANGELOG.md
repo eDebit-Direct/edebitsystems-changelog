@@ -6,6 +6,35 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.22.8] - 2024-11-05
+
+## 🔥 HOT FIXES
+- On Merchant accounts page, ability to choose the status and update it's status
+
+## 🧱 DATABASE UPDATE
+- add_column :merchant_accounts, :woocommerce_order_statuses, :array
+- Update the woocommerce_order_statuses for merchants
+
+Query -
+
+UPDATE public.merchant_accounts
+SET woocommerce_order_statuses = ARRAY
+        '{
+            "name": "created",
+            "value": "Processing"
+        }'::jsonb,
+        '{
+            "name": "received",
+            "value": "No Action"
+        }'::jsonb,
+        '{
+            "name": "processed",
+            "value": "Completed"
+        }'::jsonb
+    
+   WHERE 'Woocommerce with OTP' = ANY(integration_type)
+  OR 'Woocommerce without OTP' = ANY(integration_type);
+
 # [1.22.7] - 2024-10-15
 
 ## 🔥 HOT FIXES
