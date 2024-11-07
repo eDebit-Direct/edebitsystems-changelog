@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.22.9] - 2024-11-07
+## :fire: HOT FIXES
+- Email not going on Failed Validation.
+- for the Failed Validation emails they need to be edited. Message is the same for ACH or Draft.
+     **When DATAX Fails:-** A transaction has failed Bank Account Validation. Please contact the service provider for a new payment method.
+     **When YODLEE Fails:-** A transaction has failed due to Insufficient Funds. Please contact the service provider for a new payment method.
+
 # [1.22.8] - 2024-11-05
 
 ## 🔥 HOT FIXES
