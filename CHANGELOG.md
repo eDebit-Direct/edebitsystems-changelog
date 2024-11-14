@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.23.0] - 2024-11-14
+## :fire: HOT FIXES
+- For PPD type company entry description should be RETURN FEE instead of CREDIT
+
 # [1.22.9] - 2024-11-07
 ## :fire: HOT FIXES
 - Email not going on Failed Validation.
