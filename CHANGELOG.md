@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.23.1] - 2024-12-19
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+- Deploying a New Nacha File Version. -  CHANGE - Only 94 time 9s change with beta button.
+
+## 🐞 BUG FIXES
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.23.0] - 2024-11-14
 ## :fire: HOT FIXES
 - For PPD type company entry description should be RETURN FEE instead of CREDIT
