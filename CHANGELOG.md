@@ -6,6 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.23.3] - 2025-01-22
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+- Fix - While selecting bulk transactions from Transaction page, if we select around 500 transactions and convert them from received to processed, it's taking around 20-25 mins and finally throwing error as Timeout where not all the transaction are getting converted.
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.23.2] - 2025-01-15
 
 
