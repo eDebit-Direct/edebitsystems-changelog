@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.23.4] - 2025-01-28
+
+
+## :fire: HOT FIXES
+
+
+## :rocket: NEW FEATURES
+- When bank is inactive then transaction against the same branch will not be get created
+
+
+## :ladybug: BUG FIXES
+
+
+## :wrench: SYSTEM IMPROVEMENTS
+
+
+
+
+
+## :bricks: DATABASE UPDATE
+
 # [1.23.3] - 2025-01-27
 
 
