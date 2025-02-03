@@ -6,6 +6,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.23.5] - 2025-02-03
+## :fire: HOT FIXES
+## :rocket: NEW FEATURES
+## :ladybug: BUG FIXES
+## :wrench: SYSTEM IMPROVEMENTS
+- Loader with message added for transactions status changed from received to processed.
+## :bricks: DATABASE UPDATE
+
+
+
+
+
+
+
+
+
+
 # [1.23.4] - 2025-01-28
 
 
