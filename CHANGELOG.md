@@ -6,6 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.23.6] - 2025-02-03
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+- Fix - Yodlee bank account balance issue. Transaction get processed even if insufficient funds.
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.23.5] - 2025-02-03
 ## :fire: HOT FIXES
 ## :rocket: NEW FEATURES
