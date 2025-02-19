@@ -6,6 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.24.0] - 2025-02-19
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Update -PPD nacha file, RETURN FEE changed back to CREDIT.
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.23.9] - 2025-02-10
 
 
