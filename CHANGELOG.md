@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
-# [1.24.2] - 2025-02-19
+# [1.24.2] - 2025-02-20
 
 
 ## 🔥 HOT FIXES
@@ -17,7 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## 🔧 SYSTEM IMPROVEMENTS
-- Update -  When user place a order with Yodlee payment method, if they save the account info then account details with account number will shown in dialog box in transaction details page and if user not saved the acount then account number in  previous transactions account details get masked
+- Update - Condition to masked account number.
 
 
 
