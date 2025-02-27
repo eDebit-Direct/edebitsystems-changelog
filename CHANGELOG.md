@@ -6,6 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.24.4] - 2025-02-27
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+- Fix - When PR fails, failed transaction should also be created which is not happening right now.
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.24.3] - 2025-02-24
 
 
