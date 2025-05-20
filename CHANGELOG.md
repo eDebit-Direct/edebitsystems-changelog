@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.27.1] - 2025-05-20
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+Fix - 
+- CCD - 6 AM - Next Business Day for Processed Date
+- On Web ACH/Draft - Processed date, Same rule, same day ach, immediate time
+
+Fix - 
+## 🐞 BUG FIXES
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.27.0] - 2025-05-06
 
 
