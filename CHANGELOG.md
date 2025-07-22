@@ -6,6 +6,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.27.2] - 2025-07-22
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+ Lexis Bank Implementation
+
+Tickets - 
+- https://trello.com/c/9fWNyHGq/493
+- https://trello.com/c/jWDs3siK/492
+- https://trello.com/c/2sZ31w2o/494
+- https://trello.com/c/VocRHlTa/489
+
+
+
+## 🧱 DATABASE UPDATE
+- Banks Table - New Columns - is_updated, routing_number_type, institution_name_abbreviated, institution_type_code, validation_type, parent_tokenised_bank_id
+- InstitutionCodeTypes Table
+- RoutingNumberTypes Table
+- PlaidTokenizedAccountBanks Table
+
 # [1.27.1] - 2025-05-20
 
 
