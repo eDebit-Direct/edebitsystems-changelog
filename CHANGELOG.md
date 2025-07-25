@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.27.5] - 2025-07-25
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Update - 
+
+
+
+## 🧱 DATABASE UPDATE
+ - PlaidTokenizedAccountBanks - new table - bank_name, institution_id, is_tan_bank, is_trn_bank, tan_bank_type, min_account_no_length
+ - ShopifyCheckoutSessions - new column - order_number
+ - PlaidTransactionLogs - new table - transaction_id, account_info
+ - PlaidUserVerifiedAccounts - new table - account_info, is_reusable, processing_type, user_uuid, validated
+ - TransactionValidationServices - new table - validation_service, validation_code, validation_code_details, transaction_id
+
+
 # [1.27.4] - 2025-07-24
 
 
