@@ -6,6 +6,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.28.0] - 2025-07-31
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+Ticket - (https://trello.com/c/B8QlgYHw)
+- fix available balance null in plaid
+
+## 🔧 SYSTEM IMPROVEMENTS
+Ticket - (https://trello.com/c/27L5Bjk1/530-shopify-text-update)
+- Full Account Number must be provided ... text to be verified
+- PNC bank change
+- Video "How it works?" for ACH and Draft 
+- ACH & Draft 3rd Term and Conditions to match with ACH of Woo
+- DataX text change
+
+Ticket - (https://trello.com/c/1riUdBJD/532-add-minimum-account-validation-field)
+- Add Minimum Account Validation field in TAN Banks Add,Edit page.
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.27.9] - 2025-07-30
 
 
