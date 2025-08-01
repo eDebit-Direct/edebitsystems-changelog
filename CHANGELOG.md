@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.28.2] - 2025-08-01
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+Ticket - (https://trello.com/c/HWssxhUI/534-payment-method-issue-in-shopify-route)
+
+- In shopify redirect url - previously payment method get passed from Shopify Admin settings. Now, it get passed from order details.
+- Logo - ACH and Draft in Error page as per payment method
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.28.1] - 2025-08-01
 
 
