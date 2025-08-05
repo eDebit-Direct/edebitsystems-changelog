@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.28.3] - 2025-08-05
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+- Added a plugin error message in PR and Invoice for Plaid (https://trello.com/c/nkaifKFP/527)
+- Remove E-Signature flag from Banks UI (https://trello.com/c/Hh5LBtvW/536)
+- Add a tooltip for a InstutionId and Minimum Account Number Length (https://trello.com/c/qWjNMjWF/537)
+
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.28.2] - 2025-08-01
 
 
