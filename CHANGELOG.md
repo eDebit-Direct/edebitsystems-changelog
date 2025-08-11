@@ -6,6 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.28.7] - 2025-08-11
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Ticket - (https://trello.com/c/aoXkRRod/542)
+- Lexis bank status rule updated
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.28.6] - 2025-08-11
 
 
