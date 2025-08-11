@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.28.8] - 2025-08-11
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+Ticket - (https://trello.com/c/2sZ31w2o/494-display-bank-name-changes)
+- Display Bank Name Changes.
+
+## 🐞 BUG FIXES
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.28.7] - 2025-08-11
 
 
