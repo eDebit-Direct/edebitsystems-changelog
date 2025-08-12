@@ -6,6 +6,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.28.9] - 2025-08-12
+## :fire: HOT FIXES
+Fix recurring pr and invoice for plaid tan bank
+Ticket - (https://trello.com/c/jZn3Loob)
+
+## :rocket: NEW FEATURES
+
+
+## 🐞 BUG FIXES
+
+
+## :wrench: SYSTEM IMPROVEMENTS
+
+## :bricks: DATABASE UPDATE
+New column: tan_account_number and tan_routing_number in transactions
+
 # [1.28.8] - 2025-08-11
 
 
