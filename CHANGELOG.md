@@ -6,6 +6,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.29.3] - 2025-08-13
+## :fire: HOT FIXES
+
+## :rocket: NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## :wrench: SYSTEM IMPROVEMENTS
+ - Yodlee refresh flow
+Ticket - (https://trello.com/c/j8QjhwN9/520)
+
+## :bricks: DATABASE UPDATE
+New column: validated added in yodlee user verified accounts.
+New table - consumer_payment_sessions
+
 # [1.29.2] - 2025-08-13
 ## :fire: HOT FIXES
 Fix recurring pr and invoice for plaid tan bank
