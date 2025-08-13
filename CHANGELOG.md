@@ -6,39 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
-# [1.29.0] - 2025-08-13
-## :fire: HOT FIXES
-
-## :rocket: NEW FEATURES
-
-## 🐞 BUG FIXES
-
-
-## :wrench: SYSTEM IMPROVEMENTS
- - Yodlee refresh flow
-Ticket - (https://trello.com/c/j8QjhwN9/520)
-
-## :bricks: DATABASE UPDATE
-New column: validated added in yodlee user verified accounts.
-New table - consumer_payment_sessions
-
-# [1.28.9] - 2025-08-12
-## :fire: HOT FIXES
-Fix recurring pr and invoice for plaid tan bank
-Ticket - (https://trello.com/c/jZn3Loob)
-
-## :rocket: NEW FEATURES
-
-
-## 🐞 BUG FIXES
-
-
-## :wrench: SYSTEM IMPROVEMENTS
-
-## :bricks: DATABASE UPDATE
-New column: tan_account_number and tan_routing_number in transactions
-
-# [1.28.8] - 2025-08-11
+# [1.29.1] - 2025-08-13
 
 
 ## 🔥 HOT FIXES
@@ -52,25 +20,6 @@ Ticket - (https://trello.com/c/2sZ31w2o/494-display-bank-name-changes)
 
 ## 🔧 SYSTEM IMPROVEMENTS
 
-
-
-
-## 🧱 DATABASE UPDATE
-
-
-# [1.28.7] - 2025-08-11
-
-
-## 🔥 HOT FIXES
-
-## 🚀 NEW FEATURES
-
-## 🐞 BUG FIXES
-
-
-## 🔧 SYSTEM IMPROVEMENTS
-Ticket - (https://trello.com/c/aoXkRRod/542)
-- Lexis bank status rule updated
 
 
 
