@@ -6,6 +6,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.29.5] - 2025-08-14
+## :fire: HOT FIXES
+
+## :rocket: NEW FEATURES
+
+## 🐞 BUG FIXES
+ - Fix create credit Zip code issue
+Ticket - (https://trello.com/c/qP5lylgI)
+
+## :wrench: SYSTEM IMPROVEMENTS
+
+## :bricks: DATABASE UPDATE
+
 # [1.29.4] - 2025-08-14
 ## :fire: HOT FIXES
 
