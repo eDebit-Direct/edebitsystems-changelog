@@ -6,6 +6,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.29.6] - 2025-08-18
+## :fire: HOT FIXES
+
+## :rocket: NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## :wrench: SYSTEM IMPROVEMENTS
+ - Add a memo for Magento order
+Ticket - (https://trello.com/c/oX8RCx3t/548-add-order-memo-in-magento)
+
+## :bricks: DATABASE UPDATE
+
 # [1.29.5] - 2025-08-14
 ## :fire: HOT FIXES
 
