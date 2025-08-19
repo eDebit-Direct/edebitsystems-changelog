@@ -6,6 +6,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.29.7] - 2025-08-19
+## :fire: HOT FIXES
+
+## :rocket: NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## :wrench: SYSTEM IMPROVEMENTS
+ - Fix woo draft second time order for tan bank
+Ticket - (https://trello.com/c/ClQtlcH6)
+
+## :bricks: DATABASE UPDATE
+
 # [1.29.6] - 2025-08-18
 ## :fire: HOT FIXES
 
