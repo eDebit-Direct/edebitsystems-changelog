@@ -6,6 +6,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.29.8] - 2025-08-20
+## :fire: HOT FIXES
+
+## :rocket: NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## :wrench: SYSTEM IMPROVEMENTS
+ - Remove confirm account number and routing number for ach in Balance button
+Ticket - (https://trello.com/c/qyt85qVV)
+
+## :bricks: DATABASE UPDATE
+
 # [1.29.7] - 2025-08-19
 ## :fire: HOT FIXES
 
