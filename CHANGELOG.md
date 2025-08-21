@@ -6,6 +6,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.29.9] - 2025-08-21
+## :fire: HOT FIXES
+
+## :rocket: NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## :wrench: SYSTEM IMPROVEMENTS
+ - prevent protected keys to remove in yodlee user account's account  info while refreshing the account's balance
+ 
+Ticket - (https://trello.com/c/WQNNadBw)
+
+## :bricks: DATABASE UPDATE
+
 # [1.29.8] - 2025-08-20
 ## :fire: HOT FIXES
 
