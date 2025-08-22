@@ -6,6 +6,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.30.0] - 2025-08-22
+## :fire: HOT FIXES
+
+## :rocket: NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## :wrench: SYSTEM IMPROVEMENTS
+ - Added all plaid error code to handle in checkout
+ 
+Ticket - (https://trello.com/c/vC2INwkt)
+
+## :bricks: DATABASE UPDATE
+
 # [1.29.9] - 2025-08-21
 ## :fire: HOT FIXES
 
