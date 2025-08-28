@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.30.1] - 2025-08-28
+## :fire: HOT FIXES
+
+## :rocket: NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## :wrench: SYSTEM IMPROVEMENTS
+ - Remove savings account from plaid
+Ticket - (https://trello.com/c/ptOkj5Yn)
+
+- Update terms and Conditions URL for Shopify
+Ticket - (https://trello.com/c/PkgAzpcJ/559)
+
+- SMS OTP Template change
+ Ticket - (https://trello.com/c/NkKUO2d5)
+
+## :bricks: DATABASE UPDATE
+
 # [1.30.0] - 2025-08-22
 ## :fire: HOT FIXES
 
