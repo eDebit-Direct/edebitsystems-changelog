@@ -6,6 +6,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.30.3] - 2025-08-28
+## :fire: HOT FIXES
+
+## :rocket: NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+
+## :wrench: SYSTEM IMPROVEMENTS
+ - Shopify Full Mode for Plaid Integration
+Ticket - (https://trello.com/c/kqxW7qEg)
+
+## :bricks: DATABASE UPDATE
+
 # [1.30.2] - 2025-08-28
 ## :fire: HOT FIXES
 
