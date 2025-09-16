@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.30.5] - 2025-09-16
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Ticket - (https://trello.com/c/zYPnlSPB/569-invalid-transaction-color)
+- Colour of of Invalid  is to be shown as per this transaction list instead of transaction details page which is Orange
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.30.4] - 2025-08-29
 
 
