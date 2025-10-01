@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.30.6] - 2025-10-01
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+Ticket - (https://trello.com/c/eBBCKEvw)
+- New woocommerce checkout plugin 
+
+## 🐞 BUG FIXES
+
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+New table added - woo_checkout_sessions
+
 # [1.30.5] - 2025-09-16
 
 
