@@ -6,6 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.30.8] - 2025-10-03
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Ticket - (https://trello.com/c/cUD4Royp/580-disable-email-for-failed-auth)
+- Disable email for Failed Auth
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.30.7] - 2025-10-01
 
 
