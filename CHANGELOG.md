@@ -6,6 +6,24 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.31.2] - 2025-10-13
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+Ticket - (https://trello.com/c/QpseEqtS/584-woo-cancelled-orders)
+- Cron job cancelled order other than Edebit gateway
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.31.1] - 2025-10-10
 
 
