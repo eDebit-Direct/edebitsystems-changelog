@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.31.9] - 2025-11-04
+
+
+## 🔥 HOT FIXES
+- Reverted - Transactions to be search by id and routing number and PaymentRequest/Invoice to be search by routing number
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.31.8] - 2025-11-04
 
 
