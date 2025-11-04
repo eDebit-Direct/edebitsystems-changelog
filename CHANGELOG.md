@@ -6,6 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.31.8] - 2025-11-04
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Logo of edebit direct from login and internal pages is changed (https://trello.com/c/jdY19TAT/615-new-logo)
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.31.7] - 2025-11-04
 
 
