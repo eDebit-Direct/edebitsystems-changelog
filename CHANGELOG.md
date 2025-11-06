@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.32.1] - 2025-11-06
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Payment Request and Invoice to be search by routing number. (https://trello.com/c/jiyWq6g9)
+
+
+
+## 🧱 DATABASE UPDATE
+- Update GIN Index, to add routing number pg_search.
+
 # [1.32.0] - 2025-11-06
 
 
