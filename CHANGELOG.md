@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.32.0] - 2025-11-06
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Transactions to be search by id and routing number.
+
+
+
+## 🧱 DATABASE UPDATE
+- Update GIN Index, to add routing number and id for pg_search.
+
 # [1.31.9] - 2025-11-04
 
 
