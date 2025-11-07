@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.32.2] - 2025-11-07
+
+
+## 🔥 HOT FIXES
+Ticekt - (https://trello.com/c/DDhk63MY/618-print-draft-slow-down-issue)
+- Search code reverted and indexing reverted from the database. 
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+- Update GIN Index, to revert routing number, id pg_search.
+
 # [1.32.1] - 2025-11-06
 
 
