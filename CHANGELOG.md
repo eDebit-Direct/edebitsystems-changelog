@@ -6,6 +6,38 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.32.4] - 2025-11-13
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Status Timestamp - Transactio ns, PR and Invoice
+Ticekt - 
+(https://trello.com/c/t0MGvWen)
+(https://trello.com/c/vvceyk1B)
+
+
+
+## 🧱 DATABASE UPDATE
+New Table - 
+status_histories
+
+New Columns - 
+Users - is_email_verified, is_phone_verified
+Transactions - otp_channel, last_modified_by, last_modified_at
+PaymentRequest - last_modified_by, last_modified_at
+Invoice - last_modified_by, last_modified_at
+
+
 # [1.32.3] - 2025-11-13
 
 
