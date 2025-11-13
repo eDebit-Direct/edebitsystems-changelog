@@ -6,6 +6,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.32.5] - 2025-11-13
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+Search indexing added for routing number and id
+- Trello Ticket - (https://trello.com/c/jiyWq6g9)
+
+- Hubspot Tickets - 
+(https://app-na2.hubspot.com/contacts/3350180/record/0-5/196084755157/)
+(https://app-na2.hubspot.com/contacts/3350180/record/0-5/144755015401/)
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+Index Update -
+Transactions - transactions_text_search_index
+(Added routing_number and id in index)
+
 # [1.32.4] - 2025-11-13
 
 
