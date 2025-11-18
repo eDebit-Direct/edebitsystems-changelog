@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.32.6] - 2025-11-18
+
+
+## 🔥 HOT FIXES
+Master Merchant Login, when you click on Consumer user gets never ending spin and error message.
+- Trello Ticket - (https://trello.com/c/t8FYM6tT)
+
+- Hubspot Tickets - 
+(https://app-na2.hubspot.com/contacts/3350180/record/0-5/208537948873)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.32.5] - 2025-11-13
 
 
