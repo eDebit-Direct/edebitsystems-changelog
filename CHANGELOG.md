@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.32.7] - 2025-11-21
+
+
+## 🔥 HOT FIXES
+Restrict Consumer modal issue
+- Trello Ticket - (https://trello.com/c/bFhOyWXA)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.32.6] - 2025-11-18
 
 
