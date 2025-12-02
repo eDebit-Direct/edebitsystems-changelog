@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.32.8] - 2025-12-02
+
+
+## 🔥 HOT FIXES
+Transactions. via PR/Inv
+- Trello Ticket - (https://trello.com/c/S8H8ff0x/623-transactions-via-pr-inv)
+- Hubspot ticket - (https://app-na2.hubspot.com/contacts/3350180/record/0-5/209166309095/)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+- New column and index is_upcoming_cancelled added to transactions table
+
 # [1.32.7] - 2025-11-21
 
 
