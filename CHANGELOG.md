@@ -6,6 +6,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.32.9] - 2025-12-02
+
+
+## 🔥 HOT FIXES
+
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Transaction Edit
+- Trello Ticket - (https://trello.com/c/vvceyk1B)
+- Hubspot ticket - (https://app-na2.hubspot.com/contacts/3350180/record/0-5/189811495649/)
+
+
+
+## 🧱 DATABASE UPDATE
+- New column is_validated added to user_codes table
+- New column auditable_changes added to status_histories table
+
 # [1.32.8] - 2025-12-02
 
 
