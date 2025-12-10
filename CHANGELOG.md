@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.33.4] - 2025-12-10
+
+
+## 🔥 HOT FIXES
+Sec code CCD processed date wrong hotfix.
+- Trello Ticket - (https://trello.com/c/BeZZjtdQ/634-sec-code-ccd-processed-date-wrong-hotfix)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.33.3] - 2025-12-10
 
 
