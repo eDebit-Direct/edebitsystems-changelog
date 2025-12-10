@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.33.2] - 2025-12-10
+
+
+## 🔥 HOT FIXES
+
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Reports with Transaction Status Current/History
+- Trello Ticket - (https://trello.com/c/6KBGJ1gW)
+- Hubspot ticket - (https://app-na2.hubspot.com/contacts/3350180/record/0-5/189811495661/)
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.33.1] - 2025-12-02
 
 
