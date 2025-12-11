@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.33.6] - 2025-12-11
+
+
+## 🔥 HOT FIXES
+Table pagination issue.
+- Trello Ticket - (https://trello.com/c/j64cvceJ/636-hotfix-table-pagnination-issue)
+
+Prevent create credit on exceeding transaction amount
+- Trello Ticket - (https://trello.com/c/bchXBaEA/637-hotfix-prevent-create-credit-on-exceeding-transaction-amount)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.33.5] - 2025-12-10
 
 
