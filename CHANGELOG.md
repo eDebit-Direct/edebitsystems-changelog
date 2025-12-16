@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.33.8] - 2025-12-16
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Plaid ACH TAN Flow
+- Trello Ticket - (https://trello.com/c/pgLS2HLd/611-ach-tan-flow)
+- Hubspot Ticket - (https://app-na2.hubspot.com/contacts/3350180/record/0-5/190239052483/)
+
+
+
+
+## 🧱 DATABASE UPDATE
+Added column payment_type to table plaid_tokenized_account_banks
+
 # [1.33.7] - 2025-12-12
 
 
