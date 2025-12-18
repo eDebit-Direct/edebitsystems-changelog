@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.33.9] - 2025-12-18
+
+
+## 🔥 HOT FIXES
+plaid upcoming pr invoice validation on pr invoice aprroved day
+- Trello Ticket - (https://trello.com/c/sf61NxFE)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+
+## 🧱 DATABASE UPDATE
+
 # [1.33.8] - 2025-12-16
 
 
