@@ -6,6 +6,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.34.1] - 2025-12-30
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Restrict Consumer
+- Trello Ticket - (https://trello.com/c/mdd1QdVF/621-restrict-consumer)
+- Hubspot Ticket - (https://app-na2.hubspot.com/contacts/3350180/record/0-5/189870930659/)
+
+
+
+## 🧱 DATABASE UPDATE
+- is_reusable, processing type column added in datax_bank_accounts
+- is_reusable column added in consumer_bank_details
+- ip_addresses, restricted_consumer_bank_accounts, restricted_consumer_ip_addresses
+- ip_address column added in transactions table.
+
 # [1.34.0] - 2025-12-26
 
 
