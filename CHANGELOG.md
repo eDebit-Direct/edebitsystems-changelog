@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.34.3] - 2025-12-30
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Revision only visible to System Admin
+- Trello Ticket - (https://trello.com/c/DfTtNEaB/642-revision-only-visible-to-system-admin)
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.34.2] - 2025-12-30
 
 
