@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.34.2] - 2025-12-30
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Added new transaction status "Failed Authorization" for plaid error
+- Trello Ticket - (https://trello.com/c/UTdtBiS2)
+- Hubspot Ticket - (https://app-na2.hubspot.com/contacts/3350180/record/0-5/195297961710/)
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.34.1] - 2025-12-30
 
 
