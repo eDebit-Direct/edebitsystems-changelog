@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.34.4] - 2026-01-01
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+ACH help restricted for consumer
+- Trello Ticket - (https://trello.com/c/Ka9BojBr/643-ach-help-restricted-for-consumer)
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.34.3] - 2025-12-30
 
 
