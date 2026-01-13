@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.34.7] - 2026-01-13
+
+
+## 🔥 HOT FIXES
+Merchant Error - Popup
+- Trello Ticket - (https://trello.com/c/piprB6ZP/647-hotfix-merchant-error)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.34.6] - 2026-01-13
 
 
