@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.34.9] - 2026-01-15
+
+
+## 🔥 HOT FIXES
+Hotfix - Prevent Merchant User Senior to change transaction status from On Hold to Release Hold
+- Trello Ticket - (https://trello.com/c/qSZTwqXg)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.34.8] - 2026-01-13
 
 
