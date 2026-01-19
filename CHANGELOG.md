@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.35.2] - 2026-01-19
+
+## Tag 1.35.1 used in previous version (BCC - email)
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Remove Hardcoding of support email from restrict consumer feature
+- Trello Ticket - (https://trello.com/c/oZV4Wzft)
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.35.0] - 2026-01-19
 
 
