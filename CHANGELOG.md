@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.35.0] - 2026-01-19
+
+
+## 🔥 HOT FIXES
+Hotfix - Zip code length issue in magento for PLAID
+- Trello Ticket - (https://trello.com/c/A80uPPtg)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.34.9] - 2026-01-15
 
 
