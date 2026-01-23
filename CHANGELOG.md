@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.35.4] - 2026-01-23
+
+
+## 🔥 HOT FIXES
+Balance button hidden fo failed auth transactions
+- Trello Ticket - (https://trello.com/c/cYwjaPns/652-hotfix-balance-button)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
+
 # [1.35.3] - 2026-01-20
 
 
