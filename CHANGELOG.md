@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.35.6] - 2026-01-23
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+PR/Invoice - Plaid Flow with ACH TAN and DataX Flow as Woo
+- Trello Ticket - (https://trello.com/c/Bxh8qLOu)
+
+
+
+## 🧱 DATABASE UPDATE
+
+
+
 # [1.35.5] - 2026-01-23
 
 
