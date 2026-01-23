@@ -6,6 +6,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.35.5] - 2026-01-23
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Consumer Details Page
+- Trello Ticket - (https://trello.com/c/xYeVoMCQ)
+
+
+
+## 🧱 DATABASE UPDATE
+- New column is_restricted_for_all_merchants of type boolean to users table
+- New column scope of type string to restricted_consumer_bank_accounts table
+- New columns modified_by and created_by of type bigint and modified_date of type datetime to datax_bank_accounts table
+- New columns modified_by of type bigint and modified_date of type datetime to plaid_user_verified_accounts table
+- New columns modified_by of type bigint and modified_date of type datetime to yodlee_user_verified_accounts table
+- New columns status of type string, unrestricted_by of type bigint and unrestricted_date of type datetime to restricted_consumer_ip_addresses table
+
+
 # [1.35.4] - 2026-01-23
 
 
