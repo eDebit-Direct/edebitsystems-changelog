@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.36.0] - 2026-02-02
+
+
+## 🔥 HOT FIXES
+Jobs data table - Pagination
+- Trello Ticket - (https://trello.com/c/ZSjlgb0K/658-jobs-table-pagination-issue)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
+
+
 # [1.35.9] - 2026-01-31
 
 
