@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.36.4] - 2026-02-05
+
+
+## 🔥 HOT FIXES
+Params name issue in plaid api
+- Trello Ticket - (https://trello.com/c/agzdpnKS/663)
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+
+
+
+## 🧱 DATABASE UPDATE
+
+
+
 # [1.36.3] - 2026-02-04
 
 
