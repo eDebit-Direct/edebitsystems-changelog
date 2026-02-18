@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.36.7] - 2026-02-18
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Back to report redirection change
+- Trello Ticket - (https://trello.com/c/0LtB0zR8)
+
+
+## 🧱 DATABASE UPDATE
+
+
+
 # [1.36.6] - 2026-02-11
 
 
