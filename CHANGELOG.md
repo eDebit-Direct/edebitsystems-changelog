@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.36.9] - 2026-03-12
+
+
+## 🔥 HOT FIXES
+
+## 🚀 NEW FEATURES
+
+## 🐞 BUG FIXES
+
+## 🧪 TESTS
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Prevent Shopify session expiry
+- Trello Ticket - (https://trello.com/c/O4iCljoK)
+
+
+
+## 🧱 DATABASE UPDATE
+
+
+
 # [1.36.8] - 2026-03-03
 
 
