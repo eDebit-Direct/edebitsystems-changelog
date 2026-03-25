@@ -6,6 +6,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.37.3] - 2026-03-25
+
+
+## 🔥 HOT FIXES
+
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+"Show captcha" toggle will shown only if woocommerce integration type selected.
+- Trello Ticket - (https://trello.com/c/L1Z5q8s7/678)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.37.2] - 2026-03-25
 
 
