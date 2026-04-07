@@ -6,6 +6,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.37.4] - 2026-04-07
+
+
+## 🔥 HOT FIXES
+
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+Charge fee to reseller
+- Trello Ticket - (https://trello.com/c/uQfOTzoI)
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+
+## 🧱 DATABASE UPDATE
+- charges_applied_to_reseller column added to payment_methods
+- sales_rep_account_id and associated_merchant_account_id  columns added to fees
+
 # [1.37.3] - 2026-03-25
 
 
