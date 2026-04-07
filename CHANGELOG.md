@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.37.5] - 2026-04-07
+
+
+## 🔥 HOT FIXES
+
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+Send sms to consumer on receiving order
+- Trello Ticket - (https://trello.com/c/TiEmJTlA)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.37.4] - 2026-04-07
 
 
