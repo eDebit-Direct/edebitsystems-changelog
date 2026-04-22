@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.38.1] - 2026-04-22
+
+
+## 🔥 HOT FIXES 
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Contact details email template updated
+ Trello Ticket - (https://trello.com/c/whS8jVSL)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.38.0] - 2026-04-14
 
 
