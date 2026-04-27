@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.38.4] - 2026-04-27
+
+
+## 🔥 HOT FIXES 
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Multiple failed auth transaction restricted within 5 minutes
+ Trello Ticket - (https://trello.com/c/yX2Zhevr)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.38.3] - 2026-04-22
 
 
