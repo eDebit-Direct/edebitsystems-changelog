@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.39.3] - 2026-05-18
+
+
+## 🔥 HOT FIXES 
+- Add a text above yodlee bank selection screen
+ Trello Ticket - (https://trello.com/c/3Zm8NdKW/709-update-add-a-text-above-yodlee-bank-selection-screen)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.39.2] - 2026-05-18
 
 
