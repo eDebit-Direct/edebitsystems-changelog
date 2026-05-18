@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.39.1] - 2026-05-18
+
+
+## 🔥 HOT FIXES 
+- Yodlee redirection plugin with balance refresh and TAN flow
+ Trello Ticket - (https://trello.com/c/F9Xzq1XK/707-yodlee-redirection-and-tan-flow-in-woocommerce)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.39.0] - 2026-05-15
 
 
