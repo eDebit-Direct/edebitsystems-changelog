@@ -6,6 +6,31 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.39.9] - 2026-05-21
+
+
+## 🔥 HOT FIXES 
+- Captcha Implementation for Yodlee
+ Trello Ticket - (https://trello.com/c/twpbzBu4)
+
+- Fixed refund processed consumer
+ Trello Ticket - (https://trello.com/c/YSQkctQc)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.39.8] - 2026-05-19
 
 
