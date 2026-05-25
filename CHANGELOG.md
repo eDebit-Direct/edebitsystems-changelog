@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.40.1] - 2026-05-25
+
+
+## 🔥 HOT FIXES 
+- Woo checkout cache issue
+ Trello Ticket - (https://trello.com/c/opVYUcfs)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.40.0] - 2026-05-25
 
 
