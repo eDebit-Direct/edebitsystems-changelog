@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.40.0] - 2026-05-25
+
+
+## 🔥 HOT FIXES 
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Yodlee implemention for PR and Invoices
+ Trello Ticket - (https://trello.com/c/raOMTvkU)
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.39.9] - 2026-05-21
 
 
