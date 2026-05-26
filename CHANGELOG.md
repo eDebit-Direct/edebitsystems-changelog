@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.40.3] - 2026-05-26
+
+
+## 🔥 HOT FIXES 
+- Fix prevent plaid to yodlee redirection woo
+ Trello Ticket - (https://trello.com/c/lxSTR7P5)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.40.2] - 2026-05-26
 
 
