@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.40.7] - 2026-05-28
+
+
+## 🔥 HOT FIXES 
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Prevent received transaction cancellation by merchants after cutoff
+ Trello Ticket - (https://trello.com/c/5jQygPFx)
+
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.40.6] - 2026-05-28
 
 
