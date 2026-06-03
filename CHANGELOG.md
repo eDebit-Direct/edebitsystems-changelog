@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.41.0] - 2026-06-03
+
+
+## 🔥 HOT FIXES 
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Yodlee Refresh Balance Logs
+ Trello Ticket - (https://trello.com/c/hzEfnKwn)
+
+
+
+## 🧱 DATABASE UPDATE
+- Added refresh_balance_info of jsonb type to yodlee_transactions_logs table
+
 # [1.40.9] - 2026-05-28
 
 
