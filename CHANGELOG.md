@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.41.1] - 2026-06-03
+
+
+## 🔥 HOT FIXES 
+- PR invoices interval
+ Trello Ticket - (https://trello.com/c/whzCdTfB)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.41.0] - 2026-06-03
 
 
