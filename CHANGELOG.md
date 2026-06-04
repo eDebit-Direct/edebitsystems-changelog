@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.41.2] - 2026-06-04
+
+
+## 🔥 HOT FIXES 
+- Fix for Payment method on updating validation service
+ Trello Ticket - (https://trello.com/c/K4l3zOvM)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.41.1] - 2026-06-03
 
 
