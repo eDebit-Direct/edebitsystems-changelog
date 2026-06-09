@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.41.3] - 2026-06-09
+
+
+## 🔥 HOT FIXES 
+- Woocommerce yodlee typo error
+ Trello Ticket - (https://trello.com/c/j0gSgllL)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.41.2] - 2026-06-04
 
 
