@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.41.4] - 2026-06-23
+
+
+## 🔥 HOT FIXES 
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Yodlee Error Log
+ Trello Ticket - (https://trello.com/c/FZFjMk1A)
+
+
+
+
+## 🧱 DATABASE UPDATE
+- Added a table name system_error_logs having columns error_type of type string, error_details and metadata of type jsonb
+
 # [1.41.3] - 2026-06-09
 
 
