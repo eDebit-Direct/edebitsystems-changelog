@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.41.8] - 2026-07-01
+
+
+## 🔥 HOT FIXES 
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Yodlee Refresh Flow Improvements
+ Trello Ticket - (https://trello.com/c/jvubUAtI)
+
+
+
+## 🧱 DATABASE UPDATE
+- Added column last_used_at of type datetime to yodlee_user_verified_accounts table
+
 # [1.41.7] - 2026-06-30
 
 
