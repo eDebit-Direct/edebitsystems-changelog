@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.42.0] - 2026-07-06
+
+
+## 🔥 HOT FIXES 
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Shopify payment gateway
+ Trello Ticket - (https://trello.com/c/TkvRRiYr)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.41.9] - 2026-07-03
 
 
