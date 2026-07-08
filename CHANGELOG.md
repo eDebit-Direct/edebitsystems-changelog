@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.42.1] - 2026-07-08
+
+
+## 🔥 HOT FIXES 
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Merchant Gateway Fee Waive Off Feature
+ Trello Ticket - (https://trello.com/c/wcQiHpUs)
+
+
+
+## 🧱 DATABASE UPDATE
+- Added column gateway_fee_waive_off_until of type datetime in payment_methods table.
+
 # [1.42.0] - 2026-07-06
 
 
