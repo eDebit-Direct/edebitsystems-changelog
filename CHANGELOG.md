@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.42.4] - 2026-08-03
+
+
+## 🔥 HOT FIXES 
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Webhook Implementation
+ Trello Ticket - (https://trello.com/c/5Wutd3bc)
+
+
+
+## 🧱 DATABASE UPDATE
+- Added columns webhook_auth_mode, webhook_password, webhook_token, webhook_url and webhook_username of type string in merchant_accounts table.
+
 # [1.42.3] - 2026-08-03
 
 
