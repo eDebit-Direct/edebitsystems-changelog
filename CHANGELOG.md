@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.42.5] - 2026-08-07
+
+
+## 🔥 HOT FIXES
+- Hotfix- Triggering webhook for transaction status cancel
+ Trello Ticket - (https://trello.com/c/RgduczA8) 
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.42.4] - 2026-08-03
 
 
