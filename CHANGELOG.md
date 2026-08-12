@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.42.6] - 2026-08-12
+
+
+## 🔥 HOT FIXES
+- Hotfix- Refresh Token Conflict
+ Trello Ticket - (https://trello.com/c/P3lo4plt) 
+ - Hotfix- Password Never Expire
+  Trello Ticket - (https://trello.com/c/aJkXpgct) 
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.42.5] - 2026-08-07
 
 
