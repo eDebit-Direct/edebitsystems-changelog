@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.43.5] - 2026-09-01
+
+
+## 🔥 HOT FIXES
+ - Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Disable and Restrict consumer bank account if consumer transaction was returned for specific return code
+  Trello Ticket - (https://trello.com/c/kQrZFCfp)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.43.4] - 2026-08-31
 
 
