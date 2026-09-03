@@ -6,6 +6,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.44.0] - 2026-09-03
+
+
+## 🔥 HOT FIXES
+- Consumer List - Created Date issue
+Trello Ticket - (https://trello.com/c/vypHmlgD)
+
+- Duplicate Search in table
+Trello Ticket - (https://trello.com/c/MYNGnzqY)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+ - Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.43.9] - 2026-09-01
 
 
