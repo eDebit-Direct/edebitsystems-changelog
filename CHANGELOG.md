@@ -6,6 +6,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.44.1] - 2026-09-07
+
+
+## 🔥 HOT FIXES
+- Debian Version Archieved
+Trello Ticket - (https://trello.com/c/yepbVE55)
+
+- Failed Validation - Insufficient Funds
+Trello Ticket - (https://trello.com/c/0AWjBkNW)
+
+- Dual IP Address
+Trello Ticket - (https://trello.com/c/KyJPPNeL)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+ - Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.44.0] - 2026-09-03
 
 
