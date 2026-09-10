@@ -6,6 +6,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.44.4] - 2026-09-10
+
+
+## 🔥 HOT FIXES
+- Fixed Merchant serializer for show new statuses column
+Trello Ticket - (https://trello.com/c/EmccLxw2)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Log every FastLink outcome with the transaction it belongs to
+Trello Ticket - (https://trello.com/c/hkUn9hsV)
+- Record why a plugin checkout session produced no transaction
+Trello Ticket - (https://trello.com/c/lWHkD87p)
+- Refuse global IP blocks on shared infrastructure addresses
+Trello Ticket - (https://trello.com/c/09lXj1LY)
+- Stop attributing shared infrastructure addresses to consumers
+Trello Ticket - (https://trello.com/c/QT9TlfhW)
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.44.3] - 2026-09-10
 
 
