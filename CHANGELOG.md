@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.44.5] - 2026-09-15
+
+
+## 🔥 HOT FIXES
+- Normalize state before saving
+Trello Ticket - (https://trello.com/c/8HUFxxXF)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Add checkout journey event logging for the hosted checkout
+Trello Ticket - (https://trello.com/c/jVtiLR4o)
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.44.4] - 2026-09-10
 
 
