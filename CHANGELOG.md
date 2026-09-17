@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.44.8] - 2026-09-17
+
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Create refund for CCD transaction
+Trello Ticket - (https://trello.com/c/rQnVt5sw)
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.44.7] - 2026-09-17
 
 
