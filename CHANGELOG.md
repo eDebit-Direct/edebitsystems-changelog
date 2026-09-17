@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.44.7] - 2026-09-17
+
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Increased yodlee balance caching from 30 seconds to 15 mins
+Trello Ticket - (https://trello.com/c/A5bIcHTy)
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.44.6] - 2026-09-16
 
 
