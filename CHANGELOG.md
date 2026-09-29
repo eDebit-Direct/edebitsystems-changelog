@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.45.2] - 2026-09-29
+- Nothing in this release
+
+## 🔥 HOT FIXES
+Edebit ppd rule
+Trello Ticket - (https://trello.com/c/fGNCD79k)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.45.1] - 2026-09-22
 - Nothing in this release
 
