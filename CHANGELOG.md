@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.45.5] - 2026-10-01
+- Nothing in this release
+
+## 🔥 HOT FIXES
+Use CCD and a derived service class on fee refunds eDebit originates
+Trello Ticket - (https://trello.com/c/UfCfdXx9)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.45.4] - 2026-09-29
 - Nothing in this release
 
