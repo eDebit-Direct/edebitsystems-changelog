@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.45.6] - 2026-10-09
+- Nothing in this release
+
+## 🔥 HOT FIXES
+Require a fresh balance before submitting on a saved Yodlee account
+Trello Ticket - (https://trello.com/c/wfSJYxsg)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.45.5] - 2026-10-01
 - Nothing in this release
 
