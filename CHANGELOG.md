@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.45.8] - 2026-10-27
+- Nothing in this release
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+Name the originator on each batch of a merchant-to-consumer refund
+Trello Ticket - (https://trello.com/c/iwPqrkeE)
+
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.45.7] - 2026-10-09
 - Nothing in this release
 
