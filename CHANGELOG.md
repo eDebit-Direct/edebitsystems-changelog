@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.46.0] - 2026-10-28
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+Keep Yodlee's account number unchanged in TAN transaction logs and make the account-number display nil-safe
+Trello Ticket - (https://trello.com/c/BWP7HLAH)
+
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.45.9] - 2026-10-28
 - Nothing in this release
 
