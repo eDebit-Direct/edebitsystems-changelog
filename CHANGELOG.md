@@ -6,6 +6,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.45.9] - 2026-10-28
+- Nothing in this release
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+Add MX as an Balance Check validation service
+Trello Ticket - (https://trello.com/c/2GCzd7yy)
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+ - Added new tables mx_transactions_logs, mx_user_verified_accounts and mx_validation_codes
+
 # [1.45.8] - 2026-10-27
 - Nothing in this release
 
