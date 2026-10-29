@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.46.1] - 2026-10-29
+
+## 🔥 HOT FIXES
+MX: reuse a balance the bank gave within the last 15 minutes
+Trello Ticket - (https://trello.com/c/1cDxg8lB)
+
+Keep a Woo/custom MX checkout Pending until it is validated
+Trello Ticket - (https://trello.com/c/fuZp5K7b)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+ - Nothing in this release
+
 # [1.46.0] - 2026-10-28
 
 ## 🔥 HOT FIXES
