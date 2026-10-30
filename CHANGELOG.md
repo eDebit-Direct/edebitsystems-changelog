@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.46.2] - 2026-10-30
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+Migrate DataX bank account validation to the Equifax AltFi API with a per-merchant toggle
+Trello Ticket - (https://trello.com/c/dqm1K74E)
+
+
+
+## 🧱 DATABASE UPDATE
+ - Added new table datax_equifax_comparisons and use_datax_equifax_api of type boolean default false in merchant_accounts table.
+
 # [1.46.1] - 2026-10-29
 
 ## 🔥 HOT FIXES
