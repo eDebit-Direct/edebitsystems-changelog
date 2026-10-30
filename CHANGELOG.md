@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.46.4] - 2026-10-30
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+Delete MX members that never became a saved account at checkout open
+Trello Ticket - (https://trello.com/c/D4KkNeEh)
+
+Always refresh the balance of an MX OAuth connection
+Trello Ticket - (https://trello.com/c/iHwiKl6n)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.46.3] - 2026-10-30
 
 ## 🔥 HOT FIXES
