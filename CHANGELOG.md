@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.46.5] - 2026-10-31
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+Stop calling Equifax and storing comparison data after an old DataX validation
+Trello Ticket - (https://trello.com/c/MclHoHZq)
+
+Record how the consumer signs in to an MX bank (OAuth or username)
+Trello Ticket - (https://trello.com/c/cWU0OSrp)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.46.4] - 2026-10-30
 
 ## 🔥 HOT FIXES
