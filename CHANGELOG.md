@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.46.7] - 2026-11-03
+
+## 🔥 HOT FIXES
+Strip credentials from user JSON and reject token-less guest login
+Trello Ticket - (https://trello.com/c/TRDSinb6)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.46.6] - 2026-11-03
 
 ## 🔥 HOT FIXES
