@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.46.6] - 2026-11-03
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+Drop unsaved MX links and their members at checkout open so the widget stops listing them
+Trello Ticket - (https://trello.com/c/NDie9R5W)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.46.5] - 2026-10-31
 
 ## 🔥 HOT FIXES
