@@ -6,6 +6,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.46.8] - 2026-11-04
+
+## 🔥 HOT FIXES
+Check permissions on user lookups and consumer password set- #3544
+Ask for the login code at every login and harden the code step- #3545
+Add captcha, limits and a uniform reply to forgot password - #3546
+Skip the captcha only when Turnstile itself is down- #3548
+Scope preference updates to the user and keep staff off consumer login- #3550
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.46.7] - 2026-11-03
 
 ## 🔥 HOT FIXES
