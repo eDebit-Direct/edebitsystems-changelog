@@ -6,6 +6,34 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.47.0] - 2026-11-05
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+Keep merchant secrets and settlement banks to their own accounts
+Trello Ticket - (https://trello.com/c/y0qOxl6o)
+Require the payment's url_token for consumer bank lookups
+Trello Ticket - (https://trello.com/c/iaPkcVwR)
+Reject sessions of disabled accounts
+Trello Ticket - (https://trello.com/c/aQxsxqKw)
+Remove the unused mobile API
+Trello Ticket - (https://trello.com/c/9TtjY0Wp)
+Add permission checks to the consumers API and Reorder the consumers admin check declarations
+Trello Ticket - (https://trello.com/c/GRtqoVJV)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.46.9] - 2026-11-05
 
 ## 🔥 HOT FIXES
