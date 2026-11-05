@@ -6,6 +6,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.46.9] - 2026-11-05
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+Send users to their mapped homepage after the login code
+Trello Ticket - (https://trello.com/c/xvVRpbmD)
+Remove plaid and mircobilt from filters and forms
+Trello Ticket - (https://trello.com/c/bwAH184P)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.46.8] - 2026-11-04
 
 ## 🔥 HOT FIXES
