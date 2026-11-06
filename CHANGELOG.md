@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.47.1] - 2026-11-06
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+Make System Logs clearer and keep sensitive values out of it
+Trello Ticket - (https://trello.com/c/h2zdZ5Cj)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.47.0] - 2026-11-05
 
 ## 🔥 HOT FIXES
