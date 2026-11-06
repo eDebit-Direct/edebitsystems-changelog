@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.47.2] - 2026-11-06
+
+## 🔥 HOT FIXES
+Checkout token encrypted with expiry update
+Trello Ticket - (https://trello.com/c/hmS9wIQD)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.47.1] - 2026-11-06
 
 ## 🔥 HOT FIXES
