@@ -6,6 +6,26 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.47.5] - 2026-11-17
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+Add merchant notification preferences with a toggle to turn off the consumer SMS on transaction create
+Trello Ticket - (https://trello.com/c/bdTF4qdd)
+
+
+
+## 🧱 DATABASE UPDATE
+- Added notification_preferences of type jsonb to merchant_accounts table.
+
 # [1.47.4] - 2026-11-17
 
 ## 🔥 HOT FIXES
