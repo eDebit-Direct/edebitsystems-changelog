@@ -6,6 +6,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.47.6] - 2026-11-18
+
+## 🔥 HOT FIXES
+Strip trailing slash from WooCommerce store URL
+Trello Ticket - (https://trello.com/c/H4eJY7wD)
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+## 🧱 FEATURE IMPROVEMENTS
+Notifications section moved and only visible to system admin
+Trello Ticket - (https://trello.com/c/Nneo6lhw)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.47.5] - 2026-11-17
 
 ## 🔥 HOT FIXES
