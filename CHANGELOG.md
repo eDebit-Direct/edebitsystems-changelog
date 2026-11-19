@@ -6,6 +6,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.47.7] - 2026-11-19
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+## 🧱 FEATURE IMPROVEMENTS
+Match processing type exactly in Banks filter
+Trello Ticket - (https://trello.com/c/gsBEgjkY)
+Decline a short MX balance right after the link
+Trello Ticket - (https://trello.com/c/PCrzPfA9)
+Decline a short Yodlee balance right after the link
+Trello Ticket - (https://trello.com/c/HDSlkax5)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.47.6] - 2026-11-18
 
 ## 🔥 HOT FIXES
