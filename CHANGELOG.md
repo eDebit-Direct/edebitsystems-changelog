@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.47.8] - 2026-11-20
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+- Nothing in this release
+
+## 🧱 FEATURE IMPROVEMENTS
+Run MX bank checks on the debited routing number and drop the link-time processing type check
+Trello Ticket - (https://trello.com/c/9OHcj3LE)
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.47.7] - 2026-11-19
 
 ## 🔥 HOT FIXES
