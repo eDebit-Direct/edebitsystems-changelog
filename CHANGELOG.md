@@ -6,6 +6,29 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 <!-- HOOK:APPEND_TO_CHANGELOG -->
 
+# [1.47.9] - 2026-11-20
+
+## 🔥 HOT FIXES
+- Nothing in this release
+
+## 🚀 NEW FEATURES
+- Nothing in this release
+
+## 🐞 BUG FIXES
+- Nothing in this release
+
+## 🔧 SYSTEM IMPROVEMENTS
+Disable SendGrid click tracking
+Trello Ticket - (https://trello.com/c/A2sav4P1)
+
+## 🧱 FEATURE IMPROVEMENTS
+- Nothing in this release
+
+
+
+## 🧱 DATABASE UPDATE
+- Nothing in this release
+
 # [1.47.8] - 2026-11-20
 
 ## 🔥 HOT FIXES
